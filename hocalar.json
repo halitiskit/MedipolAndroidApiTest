@@ -1,14 +1,14 @@
 [{
  "AdiSoyadi": "Prof.Dr. Mehmet İPŞİRLİ",
  "Eposta": "mipsirli@medipol.edu.tr",
- "ResimURL": "https://github.com/halitiskit/MedipolAndroidApiTest/blob/4ddfe6960e1cb97ff690043470c6a944de8deb34/mehmet.jpeg",
+ "ResimURL": "https://raw.githubusercontent.com/halitiskit/MedipolAndroidApiTest/main/mehmet.jpeg",
  "VerdigiDers": "Fizik"
 },
  
  {
    "AdiSoyadi": "Dr.Öğr.Üye. Hande YILMAZ",
    "Eposta": "handeyilmaz@medipol.edu.tr",
-   "ResimURL": "https://github.com/halitiskit/MedipolAndroidApiTest/blob/4ddfe6960e1cb97ff690043470c6a944de8deb34/muharrem.jpeg",
+   "ResimURL": "https://raw.githubusercontent.com/halitiskit/MedipolAndroidApiTest/main/muharrem.jpeg",
    "VerdigiDers": "Yapay Zeka"
  },
  
